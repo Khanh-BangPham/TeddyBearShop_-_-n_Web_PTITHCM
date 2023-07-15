@@ -18,3 +18,4 @@
 
 #-Có 4 nhóm phân quyền: người dung chưa có tài khoản, người dùng đã có tài khoản, chủ shop(admin)
 
+![image](https://github.com/Khanh-BangPham/TeddyBearShop_Website_Project_PTITHCM/assets/77458357/6b7b4040-2c2d-4366-86b7-4ac20448f92d)
